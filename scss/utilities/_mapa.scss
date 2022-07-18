@@ -24,11 +24,3 @@ $colores-fuente:
 #FCFAEF,
 #DF6828,
 #C1CCF7;
-
-$media_queries: (
-    'mobile'    : "only screen and (max-width: 667px)",
-    'tablet'    : "only screen and (min-width: 668px) and (max-width: $size__site_content_width)",
-    'desktop'   : "only screen and (min-width: ($size__site_content_width + 1))",
-    'landscape' : "screen and (orientation:landscape) ",    
-    'portrait'  : "screen and (orientation:portrait) "
-);
