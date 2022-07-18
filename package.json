@@ -1,0 +1,23 @@
+{
+  "name": "sass-ii-y-seo-final",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/martinwittmann90/Estudio-Teresita---Martin-Wittmann.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/martinwittmann90/Estudio-Teresita---Martin-Wittmann/issues"
+  },
+  "homepage": "https://github.com/martinwittmann90/Estudio-Teresita---Martin-Wittmann#readme",
+  "dependencies": {
+    "sass": "^1.53.0"
+  },
+  "devDependencies": {},
+  "description": ""
+}
